@@ -1,5 +1,5 @@
 import java.util.*;
-class Prime{
+class prime{
     public static void main(String[] args){
         System.out.println("Not Prime");
     }
